@@ -6,6 +6,8 @@
 
 I design and operate scalable platforms, cloud infrastructure, data-intensive systems, and production automation. My work spans backend and platform engineering, low-latency services, financial market infrastructure, genomic data analysis, and enterprise AI agent integration from the infrastructure layer through application delivery.
 
+---
+
 ### Focus
 
 - Scalable backend architecture and distributed systems
@@ -42,6 +44,8 @@ I design and operate scalable platforms, cloud infrastructure, data-intensive sy
 A significant part of my work involves private repositories, internal platforms, client infrastructure, financial systems, automation pipelines, and production environments that are not publicly indexed. Public activity therefore represents only part of my engineering work.
 
 Private repository data is represented only through aggregate metrics. Repository names, client names, internal domains, infrastructure URLs, proprietary models, trading logic, and sensitive implementation details are intentionally not exposed.
+
+---
 
 ### Contact
 
