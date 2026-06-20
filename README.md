@@ -2,11 +2,11 @@
   <img src="./github-metrics.svg" alt="GitHub activity, contribution graph, and total commits" width="100%"/>
 </p>
 
-## About
+### About
 
 I design and operate scalable platforms, cloud infrastructure, data-intensive systems, and production automation. My work spans backend and platform engineering, low-latency services, financial market infrastructure, genomic data analysis, and enterprise AI agent integration from the infrastructure layer through application delivery.
 
-## Focus
+### Focus
 
 - Scalable backend architecture and distributed systems
 - Cloud infrastructure, platform engineering, and deployment automation
@@ -18,7 +18,7 @@ I design and operate scalable platforms, cloud infrastructure, data-intensive sy
 - Genomic data analysis and computational workflows
 - Enterprise integration of AI agents, tools, and internal systems
 
-## Technical Stack
+### Technical Stack
 
 **Languages:** C++, Python, Rust, Go, Node.js, TypeScript<br>
 **Backend:** APIs, workers, queues, event-driven services, microservices<br>
@@ -28,7 +28,7 @@ I design and operate scalable platforms, cloud infrastructure, data-intensive sy
 **Engineering:** API documentation, automated testing, integration testing, and delivery pipelines<br>
 **Domains:** SaaS, e-commerce, payments, financial markets, genomic analysis, enterprise AI
 
-## Domains
+### Domains
 
 - **Financial Markets:** Market data processing, quantitative analysis, index arbitrage, futures, options, trading infrastructure, and execution-aware systems.
 - **SaaS & Platforms:** Multi-service applications, internal tooling, subscription products, administrative systems, and automation workflows.
@@ -37,13 +37,13 @@ I design and operate scalable platforms, cloud infrastructure, data-intensive sy
 - **Genomics & Data Analysis:** Genomic data processing, analytical workflows, structured pipelines, and computation-oriented systems.
 - **Enterprise AI:** Integration of AI agents with business workflows, internal tools, APIs, data sources, and operational systems.
 
-## Private Work
+### Private Work
 
 A significant part of my work involves private repositories, internal platforms, client infrastructure, financial systems, automation pipelines, and production environments that are not publicly indexed. Public activity therefore represents only part of my engineering work.
 
 Private repository data is represented only through aggregate metrics. Repository names, client names, internal domains, infrastructure URLs, proprietary models, trading logic, and sensitive implementation details are intentionally not exposed.
 
-## Contact
+### Contact
 
 Email: [leonardoso@pm.me](mailto:leonardoso@pm.me)<br>
 GitHub: [@leonardoks16](https://github.com/leonardoks16)
