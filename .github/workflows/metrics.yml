@@ -15,10 +15,12 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
+    environment:
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Store the token only as the METRICS_TOKEN Actions secret.
           # Private repository information must remain aggregated.
