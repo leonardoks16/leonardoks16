@@ -1,13 +1,15 @@
-# Leonardo Kwiecinski
+# Leonardo Kwieciński
 
 Software Engineer
+
+## About
 
 I design and operate scalable platforms, cloud infrastructure, data-intensive systems, and production automation. My work spans backend and platform engineering, low-latency services, financial market infrastructure, genomic data analysis, and enterprise AI agent integration from the infrastructure layer through application delivery.
 
 ## GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub activity, contribution graph, and total commits" />
+  <img src="./github-metrics.svg" alt="GitHub activity, contribution graph, and total commits" width="100%"/>
 </p>
 
 ## Focus
