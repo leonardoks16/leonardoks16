@@ -29,11 +29,9 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
+          config_display: large
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: America/Sao_Paulo
           repositories_affiliations: owner, collaborator
           #commits_authoring: leonardoks16, nexxus, leonardoso@pm.me, leonardosyo@gmail.com, Nexxus
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
